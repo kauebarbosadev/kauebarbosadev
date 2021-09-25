@@ -26,6 +26,8 @@ Será um prazer compartilhar essa jornada com você. 😉
   <a href="https://www.instagram.com/kauebarbosa.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:contato@kauebarbosa.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+![Snake animation](https://github.com/kauebarbosadev/kauebarbosadev/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
