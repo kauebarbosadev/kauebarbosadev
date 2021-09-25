@@ -27,4 +27,4 @@ Será um prazer compartilhar essa jornada com você. 😉
   <a href="mailto:contato@kauebarbosa.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/kauebarbosadev/kauebarbosadev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kauebarbosadev/blob/output/github-contribution-grid-snake.svg)
