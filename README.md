@@ -4,7 +4,7 @@ Sou formado em Ciências Contábeis e estou fazendo uma transição de carreira 
 
 Atualmente estou estudando lógica de programação, HTML, CSS e JavaScript.
 
-Ainda não fiz nenhum trabalho profissional na área mas estou criando um protfólio através dos projetos dos cursos que estou fazendo.
+Ainda não fiz nenhum trabalho profissional na área mas estou criando um portfólio através dos projetos dos cursos que estou fazendo.
 
 Será um prazer compartilhar essa jornada com você. 😉
 
